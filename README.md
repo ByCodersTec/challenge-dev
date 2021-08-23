@@ -37,7 +37,7 @@ Your task is to create a web interface that accepts upload of [CNAB file](https:
 
 **Your web application doesn’t have to:**
 
-1. Deal with authentication or authorization (extra points if she does, more extra points if authentication is done via OAuth).
+1. Deal with authentication or authorization (extra points if it does, more extra points if authentication is done via OAuth).
 2. Be written using some specific framework (but there's nothing wrong with using them too, use what you think best)
 3. API documentation.(It will be a differential and extra points if you do)
 
