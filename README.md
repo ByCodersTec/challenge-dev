@@ -2,7 +2,7 @@
 
 Please read this document from beginning to end, very carefully.
 The intention of this test is to evaluate your tech knowledge in programming.
-In this test you have to parse [this text file(CNAB)](https://github.com/ByCodersTec/desafio-ruby-on-rails/blob/master/CNAB.txt) and save its information (financial transactions) in a database at the candidate's discretion.
+In this test you have to parse [this text file(CNAB)](https://github.com/ByCodersTec/challenge-dev/blob/main/CNAB.txt) and save its information (financial transactions) in a database at the candidate's discretion.
 This challenge must be made by you in your house. Spend the time you need, but normally, you shouldn’t need more than a few hours.
 
 # Challenge Delivery Instructions
@@ -18,7 +18,7 @@ You received a CNAB file with data regarding  financial transactions of several 
 We need to create a way for this data to be imported to a database.
 
 
-Your task is to create a web interface that accepts upload of [CNAB file](https://github.com/ByCodersTec/desafio-ruby-on-rails/blob/master/CNAB.txt), normalizes and stores the data in a relational database and displays this information on screen.
+Your task is to create a web interface that accepts upload of [CNAB file](https://github.com/ByCodersTec/challenge-dev/blob/main/CNAB.txt), normalizes and stores the data in a relational database and displays this information on screen.
 
 
 **Your web application must:**
